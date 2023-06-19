@@ -24,7 +24,7 @@ body{
 
 .resumen-box{
     width: 800px;
-    height: 1010px;
+    height: 900px;
     margin: 20px auto;
     background: var(--white);
     box-shadow: 5px 21px 20px 20px #3D3F42;
@@ -33,7 +33,7 @@ body{
 .left-section{
     background: var(--black);
     width: 250px;
-    height: 1010px;
+    height: 900px;
     float: left;
 }
 .profile{
@@ -131,7 +131,7 @@ body{
     background: var(--white);
     width: 68%;
     float: left;
-    height: 1000px;
+    height: 900px;
 }
 .right-heading img{
     background: var(--bgcolor);
@@ -181,6 +181,7 @@ body{
 .p5{
     font-size: 15px;
     color: var(--lightgray);
+    text-align: justify;
 }
 li{
     margin-left: 15px;

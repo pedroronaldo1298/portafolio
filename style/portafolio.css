@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+}
+.header{
+    background-color: #f7780f;
+}
+
+/* .nav a{
+    background-color: #f7780f;
+    
+} */
+
+.nav li{
+    background-color: #f7780f;
+    display: inline;
+}
+.article1{
+    /* border: 3px solid blue; */
+    display: inline-block;
+    width: 50%;
+}
+
+p{
+    background-color: #f7780f;
+    /* width: 10%;
+    height: auto; */
+    /* margin: 20px 20px 30px; */
+    border: 7px solid black;
+    padding: 20px;
+    display: inline-block;
+}
